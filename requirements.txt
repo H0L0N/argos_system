@@ -1,0 +1,19 @@
+# Core
+pydantic-settings
+python-dotenv
+aiohttp
+telethon
+
+# AI & NLP
+openai
+langchain
+langchain-openai
+sentence-transformers
+transformers
+nltk
+
+# Database
+sqlmodel
+chromadb
+
+
