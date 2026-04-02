@@ -8,6 +8,7 @@ telethon
 openai
 langchain
 langchain-openai
+langchain-community
 sentence-transformers
 transformers
 nltk
@@ -15,5 +16,10 @@ nltk
 # Database
 sqlmodel
 chromadb
+psycopg2-binary
+pgvector
 
-
+# Utilities
+colorama
+rich
+questionary
